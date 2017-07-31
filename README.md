@@ -1,4 +1,4 @@
-###Introduction
+### Introduction
 1. What are the differences between C++ & Java ? 
 
 ### Class, Object, Function 
@@ -19,7 +19,7 @@
 4. What is Overriding and Overloading?
 
 
-###Data Structures 
+### Data Structures 
 1. What is Linked list? What is circular linked list? Write a code for traversing a linked list and circular linked list.
 2. Write a code to find out the middle element of a linked list.
 3. Design a general Stack and Queue Class. 
@@ -27,5 +27,13 @@
 5. What is Hash ? How can you build a Hash table ? What is the look up time in Hash Table ? 
 6. What is collision in Hash table ? How can you minimize collitions ? 
 7. You are asked to build Google Search Engine. Which data structure you prefer ? explain. 
+8. How is an Array different from Linked List?
+9. Which data structures are used for BFS and DFS of a graph?
+10. What is LRU cache? Which Data Structure Should be used for implementiong LRU cache?
+11. Which data structure is used for dictionary and spell checker?
+12. Is there any difference between Null and Void ? 
+13. Which sorting algorithm is considered the fastest?
+14. Which data structures are used with the following areas: RDBMS, Network data model and hierarchical data model?
+15. How many minimum numbers of queues are needed to implement the priority queue?
 
 ### Others
