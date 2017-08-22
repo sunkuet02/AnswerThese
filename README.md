@@ -36,4 +36,12 @@
 14. Which data structures are used with the following areas: RDBMS, Network data model and hierarchical data model?
 15. How many minimum numbers of queues are needed to implement the priority queue?
 
-### Others
+### Networking
+1. What is the differences between Hub, Switch and Router ?
+2. What is OSI model ? What are the layers of OSI model ? 
+3. What is the importance of the OSI Physical Layer ? 
+4. What is a MAC Address? How many bytes in MAC address, IPv4 address and IPv6 address ? 
+5. What is multicast routing?
+6. What is Bit Stuffing?
+7. What is the difference between the communication and transmission ? 
+
