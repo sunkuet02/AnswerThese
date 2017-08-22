@@ -45,3 +45,4 @@
 6. What is Bit Stuffing?
 7. What is the difference between the communication and transmission ? 
 
+
