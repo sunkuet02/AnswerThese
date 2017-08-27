@@ -45,4 +45,8 @@
 6. What is Bit Stuffing?
 7. What is the difference between the communication and transmission ? 
 
+## <u><em>Mid Level Question</em></u>
 
+### Security
+1. OpenID and OAuth2.0 and OpenID Connect.
+2. access_token, SAML token, JWT token.
