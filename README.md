@@ -50,3 +50,8 @@
 ### Security
 1. OpenID and OAuth2.0 and OpenID Connect.
 2. access_token, SAML token, JWT token.
+3. Sticky session vs Session Replication.
+4. What is Federated Authentication ?
+5. What is CSP and SRI hash ?
+6. What is HTTP Public Key Pinning (HPKP) ?
+
