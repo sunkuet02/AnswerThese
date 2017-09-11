@@ -55,3 +55,8 @@
 5. What is CSP and SRI hash ?
 6. What is HTTP Public Key Pinning (HPKP) ?
 
+### Technical
+1. What is message queue ?
+2. What is durable subscriber ?
+3. Java proxy vs CGLIB vs aspectJ ?
+4. What is save point ?
