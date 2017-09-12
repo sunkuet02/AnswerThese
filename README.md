@@ -59,4 +59,5 @@
 1. What is message queue ?
 2. What is durable subscriber ?
 3. Java proxy vs CGLIB vs aspectJ ?
-4. What is save point ?
+4. Multiprocessing vs Multithreading ?
+5. What is save point ?
