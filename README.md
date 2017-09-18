@@ -54,6 +54,7 @@
 4. What is Federated Authentication ?
 5. What is CSP and SRI hash ?
 6. What is HTTP Public Key Pinning (HPKP) ?
+7. What is Pre-Flight call ? When it is happen ?
 
 ### Technical
 1. What is message queue ?
@@ -61,3 +62,4 @@
 3. Java proxy vs CGLIB vs aspectJ ?
 4. Multiprocessing vs Multithreading ?
 5. What is save point ?
+6. What is AOP module ?
