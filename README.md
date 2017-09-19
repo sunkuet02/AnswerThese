@@ -63,3 +63,4 @@
 4. Multiprocessing vs Multithreading ?
 5. What is save point ?
 6. What is AOP module ?
+7. Difference between Filter and Interceptor in Spring MVC ?
