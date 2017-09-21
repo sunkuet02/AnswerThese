@@ -45,3 +45,23 @@
 6. What is Bit Stuffing?
 7. What is the difference between the communication and transmission ? 
 
+## <u><em>Mid Level</em></u>
+
+### Security
+1. OpenID and OAuth2.0 and OpenID Connect.
+2. access_token, SAML token, JWT token.
+3. Sticky session vs Session Replication.
+4. What is Federated Authentication ?
+5. What is CSP and SRI hash ?
+6. What is HTTP Public Key Pinning (HPKP) ?
+7. What is Pre-Flight call ? When it is happen ?
+8. What is Clickjacking and Cursorjacking ? How to prevent it?
+
+### Technical
+1. What is message queue ?
+2. What is durable subscriber ?
+3. Java proxy vs CGLIB vs aspectJ ?
+4. Multiprocessing vs Multithreading ?
+5. What is save point ?
+6. What is AOP module ?
+7. Difference between Filter and Interceptor in Spring MVC ?
