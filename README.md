@@ -55,6 +55,7 @@
 5. What is CSP and SRI hash ?
 6. What is HTTP Public Key Pinning (HPKP) ?
 7. What is Pre-Flight call ? When it is happen ?
+8. What is Clickjacking and Cursorjacking ? How to prevent it?
 
 ### Technical
 1. What is message queue ?
