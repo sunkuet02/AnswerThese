@@ -45,3 +45,34 @@
 6. What is Bit Stuffing?
 7. What is the difference between the communication and transmission ? 
 
+### Database
+1. What is DBMS and RDBMS ? 
+2. What are advantages of DBMS over traditional file based systems? 
+3. What is Entity Relationship Diagram? What are the elements of an ERD?
+4. What is cardinality?
+5. What is Database Normalization? Why we need to normalize Database?
+6. What are super, primary, candidate and foreign keys?
+7. What are the differences between DDL, DML and DCL in SQL?
+8. What is a join?
+9. What is a view? What are the uses of view?
+10. What is a Trigger?
+11. What are the common Aggregate Functions in sql?
+12. Define Atomicity and Aggregation.
+13. What is a transaction? What are ACID properties?
+14. What is data Integrity?
+15. What are the differences between:
+    - Inner join & Outer join
+    - Left outer join & Right Outer join
+    - Having & Where clause
+    - Trigger & Stored Procedure
+    - Function & Procedure
+16. Write Queries:
+    - Fetch top n records
+    - Fetch all records where name starts with "Ab" (without quotes)
+    - Fetch all records where name ends with "un" (without quotes)
+    - Fetch unique DEPARTMENT from employee table
+    - Find Max Salary from each department
+    - Find the n<sup>th</sup> highest salary of an employee. (n = 3, 5, 6 etc.)
+    - Fetch duplicate rows in a database
+    - Delete duplicate rows from a table without using temporary table
+    - Fetch all the Employees who are also managers from a table.
